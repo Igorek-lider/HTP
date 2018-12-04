@@ -5,7 +5,7 @@ import homework.lesson9.util.Utils;
 import java.util.List;
 
 
-public class Start {
+public class StartLesson9 {
 
     public static void main(String[] args) {
 
